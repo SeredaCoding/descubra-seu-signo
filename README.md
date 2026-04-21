@@ -21,4 +21,4 @@ Sistema simples que permite ao usuário inserir sua data de nascimento e obter i
 
 ## Objetivo
 
-Relatório apresentado à Universidade Pitágoras Unopar/Anhanguera, comor equisito parcial para o aproveitamento da disciplina de Programação Web, do curso Bacharelado em Engenharia de Software.
+Relatório apresentado à Universidade Pitágoras Unopar/Anhanguera, como requisito parcial para o aproveitamento da disciplina de Programação Web, do curso Bacharelado em Engenharia de Software.
